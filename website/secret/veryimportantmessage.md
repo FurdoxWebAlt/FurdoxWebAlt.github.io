@@ -1,6 +1,6 @@
-### God,
+### Dear God,
 
-please insert a tube inside me and fill me until I explose.
+please insert a tube inside me and fill me until I explode.
 
 
 
