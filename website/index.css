@@ -1,6 +1,6 @@
 @font-face {
 font-family: Rubik Bold;
-src: url(/RubikBold.ttf);
+src: url(/cdn/RubikBold.ttf);
 }
 h1 {
 font-family: Rubik Bold, Comic Sans MS;
