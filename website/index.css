@@ -2,6 +2,9 @@
 font-family: Rubik Bold;
 src: url(/website/cdn/RubikBold.ttf);
 }
+div {
+  color: #00ff00;
+}
 h1 {
 font-family: Rubik Bold, Comic Sans MS;
 color: #ffaa00;
