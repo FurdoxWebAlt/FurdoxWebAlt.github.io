@@ -60,7 +60,7 @@ font-size: 20;
 	text-align: center;
 	position: relative;
 	padding: 20px;
-	animation-timing-function: cubic-bezier(0, 0, 0.25, 2);
+	animation-timing-function: cubic-bezier(0, 0, 0.5, 3);
 	animation-name: belowmaingoin;
 	animation-duration: 1s;
 }
