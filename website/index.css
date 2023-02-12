@@ -65,6 +65,6 @@ font-size: 20;
 }
 
 @keyframes belowmaingoin {
-	from {left: 500px;}
+	from {left: 1500px;}
 	to {left: 0px;}
 }
