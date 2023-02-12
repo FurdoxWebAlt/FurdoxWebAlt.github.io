@@ -60,14 +60,15 @@ font-size: 20;
 -webkit-text-stroke: 1.3px #0000ff;
 }
 .linkelements {
+	position: relative;
 	background-color: rgb(0 0 0 / 50%);
 	padding: 20px;
-	animation-timing-function: cubic-bezier(0, 0, 0, 2);
+	animation-timing-function: cubic-bezier(0.25, 0.25, 0.5, 1.5);
 	animation-name: linksgoin;
-	animation-duration: 2s;
+	animation-duration: 1s;
 }
-
+  
 @keyframes linksgoin {
 	from {left: 500px;}
-	to {left: 0px;}
+  	to {left: 0px;}
 }
